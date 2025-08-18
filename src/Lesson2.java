@@ -68,7 +68,7 @@ public class Lesson2 {
                 break;
         }
     }
-//
+///
     public void section3() {
         //        ТЕРНАРНЫЕ ОПЕРАТОРЫ
         int age = 18;
